@@ -1,4 +1,4 @@
-# LibreTranslate
+# LibreTranslate (forked)
 
 [Try it online!](https://libretranslate.com) | [API Docs](https://libretranslate.com/docs)
 
